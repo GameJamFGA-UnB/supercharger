@@ -2,12 +2,13 @@
 Caso o jogo tenha uma logo, disponibilizá-la no README
 --->
 
+
 ## 📃 Sobre o jogo
 <!---
 Aqui faça uma descrição breve para os jogadores sobre o seu jogo! Qual o gênero? É multijogador? etc...
 --->
 
-Descrição breve sobre o jogo
+Um jogo de corrida em um mundo cyberpunk onde coletar superchargers é a chave para vencer!
 
 ## 🎮 Engine & linguagens
 <!---
