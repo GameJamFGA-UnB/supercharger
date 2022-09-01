@@ -3,6 +3,10 @@ Caso o jogo tenha uma logo, disponibilizá-la no README
 --->
 ![Logo do game (caso tenha uma)](https://img.itch.zone/aW1nLzk5NDEwNDQucG5n/315x250%23c/jII6zO.png)
 
+## 🚗 Link do jogo
+
+https://henrique-moraes.itch.io/supercharger
+
 ## 📃 Sobre o jogo
 <!---
 Aqui faça uma descrição breve para os jogadores sobre o seu jogo! Qual o gênero? É multijogador? etc...
